@@ -66,28 +66,6 @@ const Home = () => {
           <h3>Delivery At Home</h3>
         </div>
       </div>
-      <footer className="footer">
-          <div className="footer-item">
-            <h2>Company Info</h2>
-            <h3>About Us</h3>
-            <h3>Services</h3>
-            <h3>Contact Us</h3>
-            <h3>Privacy Policy</h3>
-          </div>
-          <div className="footer-item">
-            <h2>Customer Support</h2>
-            <h3>FAQs</h3>
-            <h3>Shipping</h3>
-            <h3>Returns</h3>
-            <h3>Help Center</h3>
-          </div>
-          <div className="footer-item">
-            <h2>Connect with Us</h2>
-            <h3>Instagram</h3>
-            <h3>Facebook</h3>
-            <h3>WhatsApp</h3>
-          </div>
-        </footer>
     </>
   );
 };

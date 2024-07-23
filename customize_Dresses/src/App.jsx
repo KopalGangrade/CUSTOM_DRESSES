@@ -1,7 +1,7 @@
 import React from "react";
 import AppProvider from "./Context";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar/Navbar";
 import Home from "./components/Home";
 import Design from "./components/Design";
 import Customization from "./components/Customization";
